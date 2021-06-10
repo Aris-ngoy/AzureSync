@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/04ab6e7a-a947-4a15-a027-5e17ac1ff132/resourceGroups/uscjohannesburg/providers/Microsoft.Web/sites/uscmobileservice",
+    "appService.deploySubpath": "."
+}
