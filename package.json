@@ -1,6 +1,9 @@
 {
   "engines": {
-    "node": "=4.2.1"
+    "node": ">=4.2.1"
+  },
+  "scripts": {
+    "start": "node app.js"
   },
   "name": "azure-mobile-apps-quickstarts.backend.node.TodoSample",
   "version": "0.0.1",
